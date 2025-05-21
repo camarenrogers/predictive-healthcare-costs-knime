@@ -22,7 +22,7 @@ This project explores the predictive modeling of medical insurance charges using
 - Interaction effects (e.g. BMI × smoking) amplify risk
 - Regression model achieved an **R² of 0.751**
 
-## ⚠ Challenges
+##  Challenges
 
 - Encoding categorical variables for KNIME’s regression nodes
 - Node compatibility issues (especially Regression Predictor, Numeric Scorer)
